@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive Timeline</title>
+</head>
+<body style="margin:0; padding:0;">
+  <iframe 
+    src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1cVUMBvXGzF7WJZDUV_d6A8Z1u0-qT8-LOOVBVYXxCfM&font=Default&lang=en&initial_zoom=2&height=650" 
+    width="100%" 
+    height="650" 
+    frameborder="0">
+  </iframe>
+</body>
+</html>
